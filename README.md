@@ -1,14 +1,14 @@
-# Site de Contabilidade 📊
+# Accounting Firm Website 📊
 
-Um projeto em desenvolvimento de uma página web para um escritório de contabilidade fictício, construído como parte do meu aprendizado no curso de Desenvolvedor Fullstack.
+A web page project in development for a fictional accounting firm, built as part of my learning journey in a Fullstack Developer course.
 
-## 💻 Sobre o Projeto
-O objetivo deste site é criar uma interface profissional, moderna e responsiva capaz de apresentar serviços contábeis, fiscais e trabalhistas de forma clara. O foco atual tem sido a construção de um Front-end sólido e interativo, preparando o terreno para futuras integrações.
+## 💻 About the Project
+The main goal of this website is to create a professional, modern, and responsive interface capable of presenting accounting, tax, and payroll services clearly. The current focus has been on building a solid and interactive Front-end, laying the groundwork for future integrations.
 
-## 🛠️ Tecnologias Utilizadas
-* **HTML5:** Estruturação semântica do conteúdo.
-* **CSS3:** Estilização, design visual e responsividade.
-* **JavaScript:** Interatividade e dinamicidade da página.
+## 🛠️ Technologies Used
+* **HTML5:** Semantic content structuring.
+* **CSS3:** Styling, visual design, and responsiveness.
+* **JavaScript:** Page interactivity and dynamic features.
 
-## 🚧 Status do Projeto
-**Em desenvolvimento.** A estrutura principal do Front-end já foi concluída, e novas funcionalidades (como validação de formulários e possível integração com Back-end) serão adicionadas conforme o avanço dos meus estudos.
+## 🚧 Project Status
+**In development.** The main Front-end structure is already complete. New features, such as form validation and potential Back-end integration, will be added as my studies progress.
