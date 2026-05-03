@@ -1278,3 +1278,70 @@ input:checked + .slider:before {
 	opacity: 0.4; 
 	letter-spacing: 0.5px; 
 }
+
+/* RESPONSIVIDADE (MOBILE) */
+
+@media (max-width: 768px) {
+
+    .navbar {
+        width: 95%;
+        padding: 0 15px;
+    }
+    
+    .menu {
+        display: none; 
+    }
+
+  
+    .secao1 h1 {
+        font-size: 1.8rem;
+        text-align: center;
+    }
+    
+    .hero-content {
+        padding-right: 0;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+   
+    .content-wrapper {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+  
+    .depoimento-card {
+        min-width: 280px; 
+        padding: 25px;
+    }
+
+   
+    .faq-header h2 {
+        font-size: 1.6rem;
+    }
+
+  
+    .footer-container {
+        grid-template-columns: 1fr; 
+        text-align: center;
+        gap: 30px;
+    }
+
+    .footer-contact p {
+        justify-content: center;
+    }
+
+    .social-links {
+        justify-content: center;
+    }
+
+    .contato-container-clean h2 {
+        font-size: 1.6rem;
+    }
+    
+    .btn-formulario-unico {
+        width: 100%;
+        font-size: 0.8rem;
+    }
+}
